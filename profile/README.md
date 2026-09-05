@@ -1,24 +1,19 @@
-# Synergy Roleplay
+<h1 align="center">Hi, I'm Griffin</h1>
+<h3 align="center">An aspiring systems administrator with passion for IT infrastructure and technology.</h3>
 
-## Chain of Command
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=griffinstuber&label=Profile%20views&color=0e75b6&style=flat" alt="griffinstuber" /> </p>
 
-- **Founders:** Highest Authority on Synergy -  [Xaze, Square, Jad]
-- **Coordinator:** Oversees specific aspects of Synergy - [Jayarr (Development), Woeny (Community)]
-- **Senior Developer:** Senior member of specific development lane. - [BUB]
-- **Developer:** Proven Dev Assistants moved up to full developer.
-- **Dev Assistant:** Newest members of the team.
+- 🔭 I’m currently working on **Building and expanding my Windows Server & Active Directory knowledge**
 
-## Lanes
-- Web
-- Lua
-- Mapping/Modeling
-- QA
+- 🌱 I’m currently learning **Windows Server, Active Directory, PowerShell, networking, and enterprise IT administration**
 
-## Community Guidelines & Rules
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-To maintain our high standards and ensure a positive environment, all members are expected to follow these rules:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-- **Confidentiality:** Everything within this organization is confidential. Do not share internal discussions, code, or project details outside the community.
-- **Collaboration:** Embrace teamwork. Support your peers and actively contribute to group discussions/projects.
-- **Quality & Standards:** Adhere to our coding and documentation standards. Ensure that all contributions are well-tested and clearly documented.
-- **Accountability:** Take responsibility for your actions. If issues arise, take care of them.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=griffinstuber&show_icons=true&locale=en&layout=compact" alt="griffinstuber" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=griffinstuber&" alt="griffinstuber" /></p>
